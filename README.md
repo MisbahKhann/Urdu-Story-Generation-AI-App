@@ -285,6 +285,6 @@ P(w_3 | w_1, w_2) = \frac{Count(w_1, w_2, w_3)}{Count(w_1, w_2)}
 
 ## Author
 
-Afroz Talha AI / ML Engineer  
-Misbah Khan AI / ML Engineer  
-Uroosh Kamran AI / ML Engineer  
+Afroz Talha   
+Misbah Khan  
+Uroosh Kamran  
